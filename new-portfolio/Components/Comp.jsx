@@ -6,4 +6,4 @@ function Comp() {
   )
 }
 
-export default Comp
+export default Com
